@@ -182,8 +182,8 @@ export const DESTINATIONS_DATA: Destination[] = [
 export const GROUP_MEMBERS_DATA: GroupMember[] = [
   {
     id: 'm-1',
-    name: 'Dimas Arya Pratama',
-    npm: '22670041',
+    name: 'Ismi Adiiba Azkia',
+    npm: '24670028',
     role: 'Ketua Kelompok & Koordinator Lapangan',
     avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=500&q=80',
     bio: 'Mahasiswa Teknik Informatika UPGRIS angkatan 2022. Bertanggung jawab mengkoordinasi mobilitas kelompok 7 selama rangkaian KKL Semarang-Bali.',
@@ -195,7 +195,7 @@ export const GROUP_MEMBERS_DATA: GroupMember[] = [
   },
   {
     id: 'm-2',
-    name: 'Nabila Putri Anindya',
+    name: 'Robiatul Adawiyyah',
     npm: '22670058',
     role: 'Sekretaris & Divisi Riset Data',
     avatar: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=500&q=80',
@@ -208,7 +208,7 @@ export const GROUP_MEMBERS_DATA: GroupMember[] = [
   },
   {
     id: 'm-3',
-    name: 'Rizky Kurniawan',
+    name: 'Rizal Fany Triyanto',
     npm: '22670073',
     role: 'Divisi IT & Dokumentasi Multimedia',
     avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=500&q=80',
@@ -221,7 +221,7 @@ export const GROUP_MEMBERS_DATA: GroupMember[] = [
   },
   {
     id: 'm-4',
-    name: 'Siti Rahmawati',
+    name: ' Alwan Naufal Zaki',
     npm: '22670089',
     role: 'Bendahara & Manajemen Logistik',
     avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=500&q=80',
@@ -233,7 +233,7 @@ export const GROUP_MEMBERS_DATA: GroupMember[] = [
   },
   {
     id: 'm-5',
-    name: 'Fajar Bagus Saputra',
+    name: 'Arya Eka Nugraha ',
     npm: '22670104',
     role: 'Divisi Humas & Relasi Eksternal',
     avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=500&q=80',
@@ -246,7 +246,7 @@ export const GROUP_MEMBERS_DATA: GroupMember[] = [
   },
   {
     id: 'm-6',
-    name: 'Anisa Dwi Lestari',
+    name: 'MUHAMMAD ILHAM FEBRIANTO',
     npm: '22670122',
     role: 'Divisi Konten Digital & Web Portal',
     avatar: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=500&q=80',
