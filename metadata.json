@@ -1,0 +1,6 @@
+{
+  "name": "KKL Informatika UPGRIS - Kelompok 7 Bali Expedition",
+  "description": "Website dokumentasi kegiatan, informasi destinasi, profil anggota Kelompok 7, dan galeri foto KKL Teknik Informatika Universitas PGRI Semarang ke Bali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
